@@ -1,6 +1,4 @@
-# Crear un archivo README.md con el contenido generado
-readme_content = """# Proyecto de Ciencia de Datos  
-## Impacto de la pandemia de COVID‑19 en la mortalidad de la Argentina (2005‑2021)
+# Impacto de la pandemia de COVID‑19 en la mortalidad de la Argentina (2005‑2021)
 
 ### 🗒️ Resumen
 En este trabajo analizamos **cómo se modificó la mortalidad general en la Argentina durante 2020‑2021** y qué relación guarda con:
