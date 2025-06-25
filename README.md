@@ -65,13 +65,4 @@ El objetivo es **cuantificar el exceso de defunciones** respecto de la tendencia
 ```text
 .
 ├── data/                 # archivos CSV/ZIP originales
-├── notebooks/
-│   └── Hipotesis_TPO.ipynb
-├── src/
-│   ├── acquire.py        # utilidades de descarga
-│   ├── clean.py          # funciones de limpieza
-│   └── viz.py            # helpers de visualización
-├── outputs/
-│   ├── figs/             # gráficas finales
-│   └── tables/           # pivots y CSV derivados
 └── README.md             # este documento
